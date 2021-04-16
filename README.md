@@ -1,16 +1,19 @@
-### Nice to meet you! 👋
+## Nice to meet you! 👋
 
 I am a Software Engineer with expertise in application development, solution consulting and SAAS sales. I love to build things and have a deep appreciation for elegant solutions and beautiful design. At hackathons and conferences, I have been able to pursue my passion for sharing knowledge with others. I am all about learning and discovering new things.
 Over my carreer in IT, I have enjoyed collaborating with wonderful people from different backgrounds and cultures. And I have worked with a variety of back-end and front-end technologies.
----
-
-🧰 Toolbox
 
 ---
 
 🧰 Toolbox
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/angularjs/angularjs-original.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
 
 ---
 
