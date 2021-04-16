@@ -4,7 +4,6 @@ I am a Software Engineer with expertise in
 - application development 
 - solution consulting 
 - SAAS sales\
-\
 
 I love to build things and have a deep appreciation for elegant solutions and beautiful design. At hackathons and conferences, I have been able to pursue my passion for sharing knowledge with others. I am all about learning and discovering new things.
 Over my carreer in IT, I have enjoyed collaborating with wonderful people from different backgrounds and cultures. And I have worked with a variety of back-end and front-end technologies.
