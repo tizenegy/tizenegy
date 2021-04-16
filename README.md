@@ -14,14 +14,17 @@ Over my carreer in IT, I have enjoyed collaborating with wonderful people from d
 ---
 
 ### 🤓 I've worked with...
-Front end: Angular, TypeScript/JavaScript, HTML, CSS
-Mobile: OAA, Android/Java
-Back end: Python/Django, C, C++, C#, Java
-Databases: MSSQL, MySQL, SQLite
-API: GraphQL, Django REST Framework, ASP.NET Web API, JSON, XML
-Workflow: Test automation, Git, Scrum/Kanban
-Other technologies: Visual Basic, Assembler, various CMS, various low-code platforms
+- Front end: Angular, TypeScript/JavaScript, HTML, CSS
+- Mobile: OAA, Android/Java
+- Back end: Python/Django, C, C++, C#, Java
+- Databases: MSSQL, MySQL, SQLite
+- API: GraphQL, Django REST Framework, ASP.NET Web API, JSON, XML
+- Workflow: Test automation, Git, Scrum/Kanban
+- Other technologies: Visual Basic, Assembler, various CMS, various low-code platforms
 
+---
+
+### 📫 Get in touch!
 If you have an exciting web development project in need of another contributor or if you want to exchange stories and knowledge, please feel free to contact me. If you are curious about my hobby projects, please check out a few of my repos here. 
 <!--
 **tizenegy/tizenegy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
