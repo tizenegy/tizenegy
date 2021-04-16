@@ -6,6 +6,14 @@ Over my carreer in IT, I have enjoyed collaborating with wonderful people from d
 
 🧰 Toolbox
 
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+---
+
 https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg
 
 ---
