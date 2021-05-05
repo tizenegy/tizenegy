@@ -1,6 +1,6 @@
 ## Nice to meet you! 👋
 
-I am a Software Engineer with expertise and 8+ years of experience in 
+I am a Software Engineer with 8+ years of experience in 
 - application development 
 - solution consulting 
 - SAAS sales
