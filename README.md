@@ -17,6 +17,7 @@ Living in Germany right now but open for projects all over Europe and the world.
 - Angular 12
 - RXJS
 - NGRX
+- PrimeNG, Angular Material
 - Jest
 - Cypress
 - grpc
