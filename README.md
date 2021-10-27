@@ -9,7 +9,17 @@ I love to build things and have a deep appreciation for elegant solutions and be
 
 Over my carreer in IT, I have enjoyed collaborating with wonderful people from different backgrounds and cultures. And I have worked with a variety of back-end and front-end technologies.
 
-Currently living in Germany but open for projects all over Europe and the world.
+Living in Germany right now but open for projects all over Europe and the world.
+
+---
+
+### ⚡ My current stack...
+- Angular 12
+- RXJS
+- NGRX
+- Jest
+- Cypress
+- grpc
 
 ---
 
