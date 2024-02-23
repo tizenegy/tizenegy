@@ -14,7 +14,7 @@ I am a digital nomad open for projects all over Europe and the world.
 
 ---
 
-### ⚡ I am all about...
+### ✨ I am all about...
 - Understanding and representing user needs.
 - Monitoring the market and developing competitive analyes.
 - Defining a vision & strategy for the products.
