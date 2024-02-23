@@ -1,6 +1,7 @@
 ## Nice to meet you! 👋
 
-I am a Software Engineer with 8+ years of experience in 
+I am a Product Manager with 12+ years of experience in 
+- product management
 - application development 
 - solution consulting 
 - SAAS sales
@@ -9,7 +10,7 @@ I love to build things and have a deep appreciation for elegant solutions and be
 
 Over my carreer in IT, I have enjoyed collaborating with wonderful people from different backgrounds and cultures. And I have worked with a variety of back-end and front-end technologies.
 
-Living in Germany right now but open for projects all over Europe and the world.
+I am a digital nomad open for projects all over Europe and the world.
 
 ---
 
