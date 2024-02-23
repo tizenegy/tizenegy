@@ -14,7 +14,17 @@ I am a digital nomad open for projects all over Europe and the world.
 
 ---
 
-### ⚡ My current stack...
+### ⚡ I am all about...
+- Understanding and representing user needs.
+- Monitoring the market and developing competitive analyes.
+- Defining a vision & strategy for the products.
+- Aligning stakeholders around vision & strategy.
+- Prioritizing product features and capabilities.
+- Creating a shared brain across larger teams to empower independent decision making.
+
+---
+
+### ⚡ My current tech stack...
 - Angular 12
 - RXJS
 - NGRX
